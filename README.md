@@ -15,6 +15,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
@@ -24,15 +25,16 @@
 <br />
 <div align="center">
   <em>
-    Estudante do 3°ano do Ensino Médio e técnico de informática nas áreas de tecnologia da informação. Procuro um estágio para concluir meus estudos no Colégio Cotemig, adquirir mais experiência no mercado de trabalho e colocar meus conhecimentos em prática. Meus conhecimentos incluem: POO em C# e Java - JPAs, APIs, Servlets, JSP, programação na linguagem PHP; Criação e configuração de Banco de Dados MySql; Desenvolvimento de Front-End HTML, CSS, pacotes Bootstrap e JavaScript; Ferramentas Google; Pacote Office; Formatação e configuração de computadores
+    Full-stack developer, brazilian, currently unemployed. Graduated high school, computing technical course degree in <b>@Cotemig</b>, Minas Gerais, but the majority of my knoledge i learnt on my own. Avid for technology and prolific programmer in Angular and Java. Software enthusiast, experience with Linux(Gentoo, Mint, Ubuntu), Windows and MacOs, adherent to open source principles. Idyllic and innovative person who loves to learn new things.
   </em>
 </div>
 
 <br />
 <div align="center">
   <a href="https://github.com/JoaoVitorOliMendes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorOliMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorOliMendes&layout=compact&langs_count=8&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorOliMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorOliMendes&layout=compact&langs_count=8&theme=dark"/>
+  </a>
 </div>
   
 ##
