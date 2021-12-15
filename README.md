@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <em>
-    Full-stack developer, brazilian, currently unemployed. Graduated high school, computing technical course degree in <b>@Cotemig</b>, Minas Gerais, but the majority of my knoledge i learnt on my own. Avid for technology and prolific programmer in Angular and Java. Software enthusiast, experience with Linux(Gentoo, Mint, Ubuntu), Windows and MacOs, adherent to open source principles. Idyllic and innovative person who loves to learn new things.
+    Full-stack developer, brazilian, currently unemployed. Graduated high school, computing technical course degree in <b>@Cotemig</b>, Minas Gerais, but the majority of my knoledge i learnt on my own. Avid for technology and prolific programmer in Angular and Java. Software enthusiast, experience with Linux(Gentoo, Mint, Ubuntu), Windows and MacOs, adherent to open source principles. Idealist and innovative person who loves to learn new things.
   </em>
 </div>
 
