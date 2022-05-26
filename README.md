@@ -1,9 +1,7 @@
-<p>
-  <img src="https://github.com/JoaoVitorOliMendes/JoaoVitorOliMendes/blob/main/Assets/matrix.gif" width="10%">
-  <img src="https://github.com/JoaoVitorOliMendes/JoaoVitorOliMendes/blob/main/Assets/matrix.gif" width="10%">
-  <img src="https://github.com/JoaoVitorOliMendes/JoaoVitorOliMendes/blob/main/Assets/matrix.gif" width="10%">
+<div align="center">
+  <img src="https://github.com/JoaoVitorOliMendes/JoaoVitorOliMendes/blob/main/Assets/matrix.gif" width="100%" heigth="10em">
   <h1 align="center">JoaoVitorOliMendes</h1>
-</p>
+</div>
 
 <br />
 <div align="center">
